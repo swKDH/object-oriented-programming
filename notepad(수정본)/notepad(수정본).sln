@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "notepad(수정본)", "notepad(수정본)\notepad(수정본).csproj", "{8F438084-1F78-47C3-80D2-9529A4D0488B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F438084-1F78-47C3-80D2-9529A4D0488B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F438084-1F78-47C3-80D2-9529A4D0488B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F438084-1F78-47C3-80D2-9529A4D0488B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F438084-1F78-47C3-80D2-9529A4D0488B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65BF726B-5F52-44D6-9664-16EE04B764B8}
+	EndGlobalSection
+EndGlobal

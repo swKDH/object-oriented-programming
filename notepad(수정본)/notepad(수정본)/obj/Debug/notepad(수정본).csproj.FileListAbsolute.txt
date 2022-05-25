@@ -1,0 +1,11 @@
+C:\Users\531kd\source\repos\notepad(수정본)\notepad(수정본)\bin\Debug\notepad(수정본).exe.config
+C:\Users\531kd\source\repos\notepad(수정본)\notepad(수정본)\bin\Debug\notepad(수정본).exe
+C:\Users\531kd\source\repos\notepad(수정본)\notepad(수정본)\bin\Debug\notepad(수정본).pdb
+C:\Users\531kd\source\repos\notepad(수정본)\notepad(수정본)\obj\Debug\notepad(수정본).csproj.AssemblyReference.cache
+C:\Users\531kd\source\repos\notepad(수정본)\notepad(수정본)\obj\Debug\notepad(수정본).csproj.SuggestedBindingRedirects.cache
+C:\Users\531kd\source\repos\notepad(수정본)\notepad(수정본)\obj\Debug\notepad_수정본_.Form1.resources
+C:\Users\531kd\source\repos\notepad(수정본)\notepad(수정본)\obj\Debug\notepad_수정본_.Properties.Resources.resources
+C:\Users\531kd\source\repos\notepad(수정본)\notepad(수정본)\obj\Debug\notepad(수정본).csproj.GenerateResource.cache
+C:\Users\531kd\source\repos\notepad(수정본)\notepad(수정본)\obj\Debug\notepad(수정본).csproj.CoreCompileInputs.cache
+C:\Users\531kd\source\repos\notepad(수정본)\notepad(수정본)\obj\Debug\notepad(수정본).exe
+C:\Users\531kd\source\repos\notepad(수정본)\notepad(수정본)\obj\Debug\notepad(수정본).pdb
